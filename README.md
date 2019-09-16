@@ -11,6 +11,10 @@ Index
 
 * <a href="https://github.com/bynodejs/nodemailer/blob/master/public/views/example.html">views - example</a>
 
+* <a href="https://github.com/bynodejs/nodemailer/blob/master/public/views/password.html">views - password</a>
+
+* <a href="https://github.com/bynodejs/nodemailer/blob/master/rest/rest-email.http">rest - rest-email.http</a>
+
 Modules
 -------
 
