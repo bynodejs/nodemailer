@@ -7,12 +7,18 @@ Index
 
 * <a href="https://github.com/bynodejs/nodemailer/blob/master/lib/nodemailer.js">lib - nodemialer</a>
 
+* <a href="https://github.com/bynodejs/nodemailer/blob/master/lib/pdf.js">lib - pdf</a>
+
 * <a href="https://github.com/bynodejs/nodemailer/blob/master/public/views/example.html">views - example</a>
 
 Modules
 -------
 
-* <a href="https://nodemailer.com/about/" target="_blank">NODEMAILER</a>
+* <a href="https://github.com/mde/ejs">ejs</a>
+
+* <a href="https://nodemailer.com/about/">nodemailer</a>
+
+* <a href="https://github.com/marcbachmann/node-html-pdf">html-pdf</a>
 
 Error
 -----
