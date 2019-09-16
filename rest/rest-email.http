@@ -1,0 +1,27 @@
+# baseUrl
+@baseUrl = http://localhost:3000
+
+###
+# 이메일 전송 테스트
+POST {{baseUrl}}/email
+Content-Type: application/json
+
+{
+    "receiveEmail": "reviceEmail",
+    "subject": "이메일 전송 테스트입니다.",
+    "htmlName": "example"
+}
+
+###
+# 비밀번호 변경 테스트
+POST {{baseUrl}}/email
+Content-Type: application/json
+
+{
+    "receiveEmail": "reviceEmail",
+    "subject": "비밀번호 변경 테스트입니다.",
+    "htmlName": "password",
+    "htmlData": {
+        "password": "123456789"
+    }
+}
