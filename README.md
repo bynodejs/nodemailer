@@ -7,6 +7,8 @@ Index
 
 * <a href="https://github.com/bynodejs/nodemailer/blob/master/lib/nodemailer.js">lib - nodemialer</a>
 
+* <a href="https://github.com/bynodejs/nodemailer/blob/master/public/views/example.html">views - example</a>
+
 Modules
 -------
 
